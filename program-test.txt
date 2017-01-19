@@ -7,3 +7,6 @@ public void method() {
 public void metho2() {
 	
 }
+public void method3() {
+
+}
